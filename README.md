@@ -1,22 +1,22 @@
-#MyJetpackcomposeApp
+# MyJetpackcomposeApp
 
 MyJetpackcomposeApp is a project dedicated to learning and practicing the implementation of Jetpack Compose in Android development. This repository contains various examples and exercises that demonstrate the capabilities of Jetpack Compose.
 
-#🚀 Features
+# 🚀 Features
 
-##Basics of Jetpack Compose
+## Basics of Jetpack Compose
 
-##Composable functions and layouts
+## Composable functions and layouts
 
-##State management
+## State management
 
-##Navigation in Compose
+## Navigation in Compose
 
-##Theming and styling
+## Theming and styling
 
-##Animations and gestures
+## Animations and gestures
 
-#📦 Technologies Used
+# 📦 Technologies Used
 
 Kotlin
 
@@ -24,7 +24,7 @@ Jetpack Compose
 
 Android Studio
 
-#📂 Project Structure
+# 📂 Project Structure
 
 MyJetpackcomposeApp/
 ├── app/
@@ -34,7 +34,7 @@ MyJetpackcomposeApp/
 │           └── res/
 └── README.md
 
-#📖 Getting Started
+# 📖 Getting Started
 
 Clone the repository:
 
@@ -44,7 +44,7 @@ Open the project in Android Studio.
 
 Build the project and run the app on an emulator or physical device.
 
-#✅ Prerequisites
+# ✅ Prerequisites
 
 Android Studio Flamingo or later
 
@@ -62,9 +62,9 @@ Push to the branch (git push origin feature-branch)
 
 Open a pull request
 
-##📝 License
+# 📝 License
 
 This project is licensed under the MIT License.
 
-#Happy coding! 🚀
+Happy coding! 🚀
 
